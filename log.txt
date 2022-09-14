@@ -1,1 +1,1 @@
-File Mode: Print text to a file. bru
+print hola
